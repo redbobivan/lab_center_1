@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl"
+                 version="2.0"
+                 href="world.xsl"?>
+<world>
+<country countryID="01">
+ <name>china</name>
+ <provinces>
+  <province provinceID="01">
+   <name>jilin</name>
+    <cities>
+     <city cityID="01">
+      <name>changechun</name>
+     </city>
+     <city cityID="02">
+      <name>siping</name>
+     </city>
+    </cities>
+  </province>
+  <province provinceID="02">
+   <name>liaoning</name>
+    <cities>
+     <city cityID="01">
+      <name>shenyang</name>
+     </city>
+     <city cityID="02">
+      <name>liaoyang</name>
+     </city>
+    </cities>
+  </province>
+  </provinces>  
+</country>
+
+<country countryID="02">
+ <name>canada</name>
+ <provinces>
+  <province provinceID="01">
+   <name>ontario</name>
+    <cities>
+     <city cityID="01">
+      <name>toronto</name>
+     </city>
+     <city cityID="02">
+      <name>london</name>
+     </city>
+    </cities>
+  </province>
+  <province provinceID="02">
+   <name>quebec</name>
+    <cities>
+     <city cityID="01">
+      <name>montreal</name>
+     </city>
+     <city cityID="02">
+      <name>laval</name>
+     </city>
+    <city cityID="03">
+      <name>gatineau</name>
+     </city>
+     <city cityID="04">
+      <name>hull</name>
+     </city>    </cities>
+  </province>
+  </provinces>  
+</country>
+</world>
